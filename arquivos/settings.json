@@ -1,12 +1,8 @@
 {
     "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
     "editor.wordWrap": "on",
-    "window.zoomLevel": 0,
-    "editor.fontSize": 14,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace",
-    "explorer.compactFolders": false,
-    "editor.minimap.enabled": false,
     "code-runner.runInTerminal": true,
     "code-runner.ignoreSelection": true,
     "code-runner.executorMap": {
@@ -20,7 +16,5 @@
         "dart": "cls ; dart",
         "java": "cls ; cd $dir && javac $fileName && java $fileNameWithoutExt"
     },
-    "python.defaultInterpreterPath": "python",
-    "database-client.autoSync": true,
-    "editor.wrapOnEscapedLineFeeds": true
+    "explorer.compactFolders": false
 }
