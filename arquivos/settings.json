@@ -1,7 +1,6 @@
 {
     "workbench.startupEditor": "none",
     "editor.minimap.enabled": false,
-    "workbench.iconTheme": "material-icon-theme",
     "editor.wordWrap": "on",
     "code-runner.runInTerminal": true,
     "code-runner.ignoreSelection": true,
@@ -17,5 +16,7 @@
         "java": "cls ; cd $dir && javac $fileName && java $fileNameWithoutExt"
     },
     "explorer.compactFolders": false,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dark Modern"
 }
