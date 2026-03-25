@@ -16,5 +16,6 @@
         "dart": "cls ; dart",
         "java": "cls ; cd $dir && javac $fileName && java $fileNameWithoutExt"
     },
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
+    "git.autofetch": true
 }
