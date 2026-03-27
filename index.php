@@ -19,7 +19,7 @@
         <dl>
             <dt>Seções do curso:</dt>
             <dd>
-                <a href="https://localhost/_projetos_php/Desenvolvimento-Web_Joao-Ribeiro/secao_02_html5_css3_nivel_1_introducao/">Seção 02: HTML5 & CSS3 - Nível 1 - Introdução ao HTML5 e CSS3</a>
+                <a href="http://localhost/_projetos-php/Desenvolvimento-Web_Joao-Ribeiro/secao_02_html5_css3_nivel_1_introducao/">Seção 02: HTML5 & CSS3 - Nível 1 - Introdução ao HTML5 e CSS3</a>
             </dd>
             <dd>
                 <a href=""></a>
